@@ -30,7 +30,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/Users/powercommerce/Documents/test/from-github-all/python-yaml-Jinja2/02-Jinja2-template/venv"
+set -gx VIRTUAL_ENV "/Users/powercommerce/Documents/test/from-github-all/python-yaml-Jinja2-with-template/02-Jinja2-template/venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH

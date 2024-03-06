@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/powercommerce/Documents/test/from-github-all/python-yaml-Jinja2/02-Jinja2-template/venv"
+VIRTUAL_ENV="/Users/powercommerce/Documents/test/from-github-all/python-yaml-Jinja2-with-template/02-Jinja2-template/venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
